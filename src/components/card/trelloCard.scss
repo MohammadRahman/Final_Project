@@ -1,0 +1,14 @@
+.card-container{
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    height: 100px;
+    background-color: red;
+    .text-input{
+        display: flex;
+        height: 70%;
+    }
+    .save-button{
+        height: 30%;
+    }
+}

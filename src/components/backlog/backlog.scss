@@ -1,0 +1,20 @@
+.backlog-container{
+    display: flex;
+    min-height: 40px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    .title{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .icon{
+        width: 10%;
+    }
+    .text-body{
+        
+    }
+}
